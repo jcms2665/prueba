@@ -2,10 +2,7 @@
 
 ## Subtítulo
 
-
-Escribir el contendio del repositorio.
-
-La sintaxis sigue la lógica de *Markdown*
+En esta carpeta está el archivo ejemplo.do que hace ......
 
 
 Autor: **Vladimir Pinto**
